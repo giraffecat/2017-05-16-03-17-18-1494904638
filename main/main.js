@@ -1,5 +1,6 @@
 // Write your cade below:
 module.exports = function main() {
- var num=9;
-  console.log(num%4);
+ var a=9;
+ var b=4;
+ alert(a%b);
 };
