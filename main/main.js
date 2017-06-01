@@ -1,6 +1,6 @@
 // Write your cade below:
 module.exports = function main() {
-int a,b,z;
+var a,b,z;
   a=scanner.nextlnt();
   b=scanner.nextlnt();
   z=a%b;
