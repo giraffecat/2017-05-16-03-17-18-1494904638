@@ -1,5 +1,5 @@
 // Write your cade below:
-module.exports = function main(1) {
+module.exports = function() {
   var i=9;
   var j=4;
    z=9%4;
