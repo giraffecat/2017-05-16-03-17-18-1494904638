@@ -1,8 +1,8 @@
 // Write your cade below:
 module.exports = function main() {
-  var a,b;
-  a=9;b=4;
-  t=a%b;
-  printf("%d",t);
+  int i=9;
+  int j=4;
+  int z=9%4;
+  system.out.println("number:",z);
   
 };
