@@ -1,5 +1,5 @@
 // Write your cade below:
-module.exports = functionb main(void) {
+module.exports = functionb main() {
   var i=9;
   var j=4;
    z=9%4;
