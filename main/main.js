@@ -1,8 +1,9 @@
 // Write your cade below:
 module.exports = function main() {
-  var i=9;
-  var j=4;
-   z=9%4;
+int a,b,z;
+  a=scanner.nextlnt();
+  b=scanner.nextlnt();
+  z=a%b;
 System.out.println("please pay: " + z);
   
 };
